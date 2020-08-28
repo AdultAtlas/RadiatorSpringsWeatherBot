@@ -1,0 +1,16 @@
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.exe
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.deps.json
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.runtimeconfig.json
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.runtimeconfig.dev.json
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.dll
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.pdb
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\DSharpPlus.dll
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.csprojAssemblyReference.cache
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.AssemblyInfoInputs.cache
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.AssemblyInfo.cs
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.csproj.CoreCompileInputs.cache
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.csproj.CopyComplete
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.dll
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.pdb
+C:\Users\kdempsey\RiderProjects\RadiatorSpringsWeatherBot\RadiatorSpringsWeatherBot\obj\Debug\netcoreapp3.1\RadiatorSpringsWeatherBot.genruntimeconfig.cache
